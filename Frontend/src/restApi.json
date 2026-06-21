@@ -5,19 +5,19 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Every ingredient is sourced fresh daily from local farms and trusted suppliers. We never compromise on what goes into your plate." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "Our chefs blend bold flavors with refined techniques, creating dishes that are memorable from the first bite to the last." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Hot, fresh, and on time — we deliver your favorite meals straight to your door without ever sacrificing quality." 
             }
         ],
         "dishes": [
@@ -100,21 +100,21 @@
             {
                 "id": 1,
                 "image": "./review1.png",
-                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "description": "The atmosphere was warm and the food was absolutely outstanding. The lamb rump melted in my mouth — I'll definitely be coming back with the whole family.",
                 "rating": 4,
                 "userName": "Jane Cooper"
             },
             {
                 "id": 2,
                 "image": "./review2.png",
-                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "description": "From the moment we walked in to the last bite of dessert, everything was perfect. The staff was attentive and the flavors were unlike anything I've had before.",
                 "rating": 4.5,
                 "userName": "Esther Howard"
             },
             {
                 "id": 3,
                 "image": "./review3.png",
-                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "description": "Booked a table for our anniversary and it was a magical evening. The reservation process was seamless and the food exceeded every expectation we had.",
                 "rating": 5,
                 "userName": "Guy Hawkins"
             }
